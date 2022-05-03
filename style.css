@@ -30,15 +30,12 @@ body.dark{
     justify-content: center;
     align-items: center;
     color: white;
-
 }
 
 .theme-toggle-button:hover,
 .theme-toggle-button:focus {
     transform: scale(1.1);
 }
-
-
 
 .component{
     display: flex;
