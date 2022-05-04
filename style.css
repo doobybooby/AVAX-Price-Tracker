@@ -45,14 +45,14 @@ body.dark{
 }
 
 .bck {
-    width: 100vh;
-    height: 80vh;
+    width: 65%;
+
 }
 
 #info {
     display: flex;
     text-align: center;
-    position:absolute;
+    /* position:absolute; */
     z-index: 3;
     background-color: rgb(9,9,9, .7);
     border-radius: 50%;
