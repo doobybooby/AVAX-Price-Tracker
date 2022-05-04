@@ -8,9 +8,12 @@ body {
     --text-color: black;
     --button-text-color: white;
     --transition-delay: 1s;
-
     background-color: white;
     transition: background-color 200ms linear;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 body.dark{
@@ -38,9 +41,9 @@ body.dark{
 }
 
 .component{
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     text-transform: uppercase;
 }
 
